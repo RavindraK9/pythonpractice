@@ -1,0 +1,9 @@
+s1=int(input("enter subject1 marks"))
+s2=int(input("enter subject2 marks"))
+s3=int(input("enter subject3 marks"))
+
+total=s1+s2+s3
+average=total/3
+
+print("total subjects marks :",total)
+print("average marks:",average)
